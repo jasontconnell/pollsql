@@ -1,0 +1,8 @@
+cloud.google.com/go v0.30.0 h1:xKvyLgk56d0nksWq49J0UyGEeUIicTl4+UBiX1NPX9g=
+cloud.google.com/go v0.30.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
+github.com/denisenkom/go-mssqldb v0.0.0-20180901172138-1eb28afdf9b6 h1:BZGp1dbKFjqlGmxEpwkDpCWNxVwEYnUPoncIzLiHlPo=
+github.com/denisenkom/go-mssqldb v0.0.0-20180901172138-1eb28afdf9b6/go.mod h1:xN/JuLBIz4bjkxNmByTiV1IbhfnYb6oo99phBn4Eqhc=
+github.com/jasontconnell/conf v1.0.0 h1:JlH49EuO4XMoIEIAs8Jt+7knwkgf/AUOcIj2EGIWkEU=
+github.com/jasontconnell/conf v1.0.0/go.mod h1:nWfVYYLqM+8T/yaz+OAYPVUuETD0AtrL9tVnuAw9uK4=
+github.com/pkg/errors v0.8.0 h1:WdK/asTD0HN+q6hsWO3/vpuAkAr+tw6aNJNDFFf0+qw=
+github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
