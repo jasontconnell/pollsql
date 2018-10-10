@@ -52,9 +52,8 @@ func calc(results chan PollResult, desired uint64) {
 			}
 
 			var ttz float64
-			if ps.Diff != 0 {
-				chunksLeft := float64(pr.Count) / float64(ps.Diff)
-				ttz = chunksLeft * rps
+			if rps != 0 {
+				ttz = float64(pr.Count) / rps
 			}
 
 			unit := "seconds"
