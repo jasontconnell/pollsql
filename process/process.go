@@ -63,7 +63,7 @@ func calc(results chan PollResult, desired uint64) {
 				ttz = ttz / float64(3600)
 			} else if ttz > 100 {
 				unit = "minutes"
-				ttz = ttz / float64(60.0)
+				ttz = ttz / float64(60)
 			}
 
 			fmt.Printf("\r %v %v left\t\tRows per second: %v\tLeft: %v", uint64(ttz), unit, uint64(rps), pr.Count)
